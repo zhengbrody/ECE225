@@ -1,0 +1,910 @@
+================================================================================
+HIGH-CONFIDENCE ANOMALOUS REVIEWS - MANUAL REVIEW
+================================================================================
+
+Total high-confidence anomalies: 7,268
+Sample size: 20
+Detection method: All 3 models (Isolation Forest, HBOS, One-Class SVM) agree
+
+================================================================================
+
+
+================================================================================
+REVIEW #1
+================================================================================
+
+Review ID: 26782
+Product ASIN: B0002AHW2W
+User ID: AGEEIPRBRILS6LEKAJ4QG3E35FNA
+Timestamp: 2004-12-29 04:37:04
+
+Rating: 2.0 / 5.0
+Product Average Rating: 2.90
+Rating Deviation: -0.90
+Extreme Rating (1 or 5): No
+
+Verified Purchase: No
+Helpful Votes: 9
+
+Word Count: 24
+Character Count: 151
+Uppercase Ratio: 0.037
+Punctuation Ratio: 0.000
+
+User Total Reviews: 1
+User Average Rating: 2.00
+User Verified Ratio: 0.00
+
+Product Total Reviews: 19
+Product Average Rating: 2.16
+Product Verified Ratio: 0.42
+
+Isolation Forest Score: -0.5715
+HBOS Score: 52.1698
+One-Class SVM Score: 5.9974
+
+TITLE:
+Not for me!
+
+TEXT:
+I have been using the Moi razer for about a month.  I have tried wet, I have tried dry, I have tried with and without shaving gel I can't seem to get a close shave.  It really looks like I haven't shaved when I am finished.  I am very disappointed and would not recommend.
+
+MANUAL ASSESSMENT: [ ] Normal  [ ] Suspicious  [ ] Definitely Anomalous
+NOTES: ___________________________________________________________
+____________________________________________________________________
+
+
+================================================================================
+REVIEW #2
+================================================================================
+
+Review ID: 592049
+Product ASIN: B000PKKAGO
+User ID: AEEABG3G45MK77AQWWYSGFTJJMFA
+Timestamp: 2008-03-31 18:26:50
+
+Rating: 1.0 / 5.0
+Product Average Rating: 4.00
+Rating Deviation: -3.00
+Extreme Rating (1 or 5): Yes
+
+Verified Purchase: No
+Helpful Votes: 10
+
+Word Count: 56
+Character Count: 340
+Uppercase Ratio: 0.077
+Punctuation Ratio: 0.000
+
+User Total Reviews: 1
+User Average Rating: 1.00
+User Verified Ratio: 0.00
+
+Product Total Reviews: 188
+Product Average Rating: 3.66
+Product Verified Ratio: 0.38
+
+Isolation Forest Score: -0.5967
+HBOS Score: 43.5317
+One-Class SVM Score: 3.9638
+
+TITLE:
+Good Shaver, Bad Close-Ups
+
+TEXT:
+The shaver is great, nice design, cool looking, but thats not why we buy a shaver.<br />The head is very flimsy, feels like its gonna break as you press it against your skin. You can press softly or roughly, no matter what you do, it gives a NOT-SO-CLOSE SHAVE. I had to shave ever day with this unit. It gives very bad irritation around the neck area, no matter how many times you use it. I have very sensitive skin. Around the mouth area, same thing, irritation. The shaver is nice, but for the price and what it can do, I would NOT RECOMEND THIS UNIT.
+
+MANUAL ASSESSMENT: [ ] Normal  [ ] Suspicious  [ ] Definitely Anomalous
+NOTES: ___________________________________________________________
+____________________________________________________________________
+
+
+================================================================================
+REVIEW #3
+================================================================================
+
+Review ID: 127029
+Product ASIN: B07MN1KJ15
+User ID: AHSP5IKX6USXFMSHWDQMXSKAEJ3Q
+Timestamp: 2020-08-03 20:06:46.709000
+
+Rating: 1.0 / 5.0
+Product Average Rating: 2.80
+Rating Deviation: -1.80
+Extreme Rating (1 or 5): Yes
+
+Verified Purchase: No
+Helpful Votes: 0
+
+Word Count: 87
+Character Count: 617
+Uppercase Ratio: 0.028
+Punctuation Ratio: 0.011
+
+User Total Reviews: 15
+User Average Rating: 3.73
+User Verified Ratio: 0.00
+
+Product Total Reviews: 13
+Product Average Rating: 3.62
+Product Verified Ratio: 0.08
+
+Isolation Forest Score: -0.5791
+HBOS Score: 46.4201
+One-Class SVM Score: 4.7059
+
+TITLE:
+expires in less than 2 months
+
+TEXT:
+Received July 23, 2020.<br /><br />I use this 2x a week in the evenings after applying hyaluronic serum. I've experienced no allergic reaction. I chose this because the retinol concentration (0.5%) isn't too high.<br /><br />This is the second Higher Education skin care product I've purchased that has a very short expiration period - expires in less than 2 months (Sep 2020). The first was the "Grinding Away skin polishing scrub" that expires in less than 3 months (Oct 2020).<br /><br />I'm really annoyed that Higher Education is stocking Amazon with old products. If I were paying full price for this, I would expect to receive "fresh" products - with at least a year before expiration. If I were purchasing this from a physical store, I'd give this back to the counter lady and just look for something else.<br /><br />One star for sending me an old product. Amazon, stop selling old products! Customers who paid full price for this - you should be returning the product.
+
+MANUAL ASSESSMENT: [ ] Normal  [ ] Suspicious  [ ] Definitely Anomalous
+NOTES: ___________________________________________________________
+____________________________________________________________________
+
+
+================================================================================
+REVIEW #4
+================================================================================
+
+Review ID: 675703
+Product ASIN: B001U2L5SI
+User ID: AFHWSKYYJIL6NJBBUY57FPEZ5GKA
+Timestamp: 2009-11-03 14:59:12
+
+Rating: 3.0 / 5.0
+Product Average Rating: 3.00
+Rating Deviation: 0.00
+Extreme Rating (1 or 5): No
+
+Verified Purchase: Yes
+Helpful Votes: 0
+
+Word Count: 31
+Character Count: 197
+Uppercase Ratio: 0.006
+Punctuation Ratio: 0.000
+
+User Total Reviews: 2
+User Average Rating: 3.50
+User Verified Ratio: 1.00
+
+Product Total Reviews: 1
+Product Average Rating: 3.00
+Product Verified Ratio: 1.00
+
+Isolation Forest Score: -0.5572
+HBOS Score: 45.6518
+One-Class SVM Score: 4.1438
+
+TITLE:
+Ok
+
+TEXT:
+The description says to use at the first sight of a pimple/acne but since i am not constantly checking my face for new ones about to flare up i used to on already active acne and didn't seem to be as effective. So if you are really good at spotting when acne is about to hit this might work great for you otherwise not real sure.
+
+MANUAL ASSESSMENT: [ ] Normal  [ ] Suspicious  [ ] Definitely Anomalous
+NOTES: ___________________________________________________________
+____________________________________________________________________
+
+
+================================================================================
+REVIEW #5
+================================================================================
+
+Review ID: 644471
+Product ASIN: B09LHS6RGF
+User ID: AHUWW6TZ22M44UYGMAFDCOHH4DSA
+Timestamp: 2018-11-25 00:31:02.118000
+
+Rating: 3.0 / 5.0
+Product Average Rating: 4.50
+Rating Deviation: -1.50
+Extreme Rating (1 or 5): No
+
+Verified Purchase: No
+Helpful Votes: 0
+
+Word Count: 46
+Character Count: 298
+Uppercase Ratio: 0.008
+Punctuation Ratio: 0.213
+
+User Total Reviews: 1
+User Average Rating: 3.00
+User Verified Ratio: 0.00
+
+Product Total Reviews: 881
+Product Average Rating: 3.99
+Product Verified Ratio: 0.98
+
+Isolation Forest Score: -0.5811
+HBOS Score: 48.4844
+One-Class SVM Score: 1.6235
+
+TITLE:
+Worth the money
+
+TEXT:
+Like this doll head but dont lighten her all over!!!! I lightened her 2x and had no tangling and  hair took very well...light sheding before being lightened...after lightening the 2nd time has bald spots....hair is textured slightly which is cool but it does have alot of slip to it so clips dont want to stay and styles can unravel/fall if not secured well...i brought 2 of them and plan to order several more for school!!!!!! (Hair Longer than expected this picture was after i cut atleast 2-4 inches off)
+
+MANUAL ASSESSMENT: [ ] Normal  [ ] Suspicious  [ ] Definitely Anomalous
+NOTES: ___________________________________________________________
+____________________________________________________________________
+
+
+================================================================================
+REVIEW #6
+================================================================================
+
+Review ID: 193733
+Product ASIN: B01DFQ15KE
+User ID: AHFHDSZ7LVYBKDQWIVBO4BU2VMGA
+Timestamp: 2016-08-13 23:48:32
+
+Rating: 4.0 / 5.0
+Product Average Rating: 4.80
+Rating Deviation: -0.80
+Extreme Rating (1 or 5): No
+
+Verified Purchase: No
+Helpful Votes: 1
+
+Word Count: 148
+Character Count: 930
+Uppercase Ratio: 0.014
+Punctuation Ratio: 0.000
+
+User Total Reviews: 2
+User Average Rating: 4.00
+User Verified Ratio: 0.00
+
+Product Total Reviews: 4
+Product Average Rating: 4.75
+Product Verified Ratio: 0.25
+
+Isolation Forest Score: -0.6110
+HBOS Score: 44.0602
+One-Class SVM Score: 4.8422
+
+TITLE:
+Bonita Colors
+
+TEXT:
+This set of nail polish is very nice. The colors are very vibrant and they come with a great variety of colors for all sorts of combinations with your wardrobe. All of the colors that come with this set have a shimmer to them, meaning they are kind of like glittery rather than just being a solid color. That is something that you can't really tell from the picture given on the amazon website. So if you don't like shimmery types of colors, then you won't like this set. The nail polish dries relatively quickly when you put it on, but it doesn't dry right away and you do need to wait probably about a minute or longer for it to dry. The reason why I gave this product 4 stars instead of 5 was when I tried to remove the nail polish off is because when I try to remove it with nail polish remover, it actually takes a long time. You'll notice that when you wipe off the nail polish with a cotton ball dipped in nail polish remover, the top color layer comes off, but you are still left with a silver layer that is stuck to your nails. I have tried this with a few colors and no matter what color the nail polish is, when I try to remove it, I'm left with a silver layer on my nails that is hard to remove. You kind of have to press really hard with the cotton ball and put more remover for it to come off. I've never had an issue like this with any other nail polish I've used. And this nail polish wears away like other nail polishes I've used, so it's not like it lasts longer or anything. The only issue is that when I try to remove it with nail polish remover, it kind of takes awhile. But other than that, I really like this set and I definitely recommend it.
+
+MANUAL ASSESSMENT: [ ] Normal  [ ] Suspicious  [ ] Definitely Anomalous
+NOTES: ___________________________________________________________
+____________________________________________________________________
+
+
+================================================================================
+REVIEW #7
+================================================================================
+
+Review ID: 225697
+Product ASIN: B07HXWG5SP
+User ID: AEKKV37KF2F6VCROLUX6TYORKW4A
+Timestamp: 2020-03-04 18:48:54.739000
+
+Rating: 5.0 / 5.0
+Product Average Rating: 4.70
+Rating Deviation: 0.30
+Extreme Rating (1 or 5): Yes
+
+Verified Purchase: Yes
+Helpful Votes: 0
+
+Word Count: 4
+Character Count: 27
+Uppercase Ratio: 0.000
+Punctuation Ratio: 1.800
+
+User Total Reviews: 2
+User Average Rating: 4.50
+User Verified Ratio: 1.00
+
+Product Total Reviews: 374
+Product Average Rating: 4.36
+Product Verified Ratio: 0.97
+
+Isolation Forest Score: -0.5373
+HBOS Score: 43.7255
+One-Class SVM Score: 0.1864
+
+TITLE:
+perfect
+
+TEXT:
+original for sure....im very happy !!!!!!!!!
+
+MANUAL ASSESSMENT: [ ] Normal  [ ] Suspicious  [ ] Definitely Anomalous
+NOTES: ___________________________________________________________
+____________________________________________________________________
+
+
+================================================================================
+REVIEW #8
+================================================================================
+
+Review ID: 174704
+Product ASIN: B07R5N5GDM
+User ID: AGF5D2UWW67AXTL7L5XCRO67FR7A
+Timestamp: 2019-07-23 00:10:04.853000
+
+Rating: 3.0 / 5.0
+Product Average Rating: 4.10
+Rating Deviation: -1.10
+Extreme Rating (1 or 5): No
+
+Verified Purchase: Yes
+Helpful Votes: 2
+
+Word Count: 95
+Character Count: 549
+Uppercase Ratio: 0.044
+Punctuation Ratio: 0.010
+
+User Total Reviews: 6
+User Average Rating: 4.00
+User Verified Ratio: 0.83
+
+Product Total Reviews: 1
+Product Average Rating: 3.00
+Product Verified Ratio: 1.00
+
+Isolation Forest Score: -0.5782
+HBOS Score: 50.8656
+One-Class SVM Score: 3.3184
+
+TITLE:
+Beautiful color but the wig won't last long.
+
+TEXT:
+I love the color of this wig. It felt very soft when I first got it. I wore and took care of it for 2 weeks to see how long it can last with care and test out the limits.<br /><br />If you are looking for a wig to wear one time or maybe twice, then this the wig for you.<br />This wig barely made it past 6 hours of wearing it. It feels great but the hair tangles EASILY.<br />I had to detangle this wig every day after wearing it.  At the end of the 5th day I had to wear it in the pony tail to hide the tangles. Then it just got worst.<br /><br />This hair is not made for pony tails or an up do. It AUTOMATICALLY TANGLES. It is the worst.<br /><br />It had no cumb inside the wig to attach. It only have the head band in the back to tightens it and to keep it in place.<br /><br />The cap is not that breatheable! I would not advise wearing this wig all day.<br /><br />The color was beautiful and the texture of the hair is so soft and smooth that it was so feathery. At least it look like real hair. Again this wig is for a 1 time only or 2 time wear.
+
+MANUAL ASSESSMENT: [ ] Normal  [ ] Suspicious  [ ] Definitely Anomalous
+NOTES: ___________________________________________________________
+____________________________________________________________________
+
+
+================================================================================
+REVIEW #9
+================================================================================
+
+Review ID: 228960
+Product ASIN: B08KT7FCYY
+User ID: AEOK4TQIKGO23SJKZ6PW4FETNNDA_1
+Timestamp: 2021-01-11 14:35:47.687000
+
+Rating: 3.0 / 5.0
+Product Average Rating: 3.10
+Rating Deviation: -0.10
+Extreme Rating (1 or 5): No
+
+Verified Purchase: No
+Helpful Votes: 0
+
+Word Count: 97
+Character Count: 590
+Uppercase Ratio: 0.025
+Punctuation Ratio: 0.000
+
+User Total Reviews: 68
+User Average Rating: 4.24
+User Verified Ratio: 0.01
+
+Product Total Reviews: 12
+Product Average Rating: 3.08
+Product Verified Ratio: 0.25
+
+Isolation Forest Score: -0.6006
+HBOS Score: 52.0734
+One-Class SVM Score: 1.3333
+
+TITLE:
+Tea or bath water works
+
+TEXT:
+These are made from real flowers and do smell good.  BUT its a little hard to determine if they should be a tea or a bath enhancer.  They are NOT bath bombs.  Each mini ball (they are close to a quarter in size maybe a bit smaller) is wrapped in jewel color foil paper.  They do each have a fantastic natural floral smell that did not have a chemical scent, to me, in any way.<br /><br />I have a large 2 person soaker tub.  I would need to use pretty much all of these to get a nice overall effect.  However, a standard bath tub you could probably use 1 or 2.<br /><br />For tea or baking these would be better.  I am not personally a fan of floral flavored food but many people I know are.  In order to bake with these you prep like a tea, strain, press and use liquid for flavor.  Set flowers aside and add to batter once it's been poured to maintain shape.  OR add to mix if only want the color.<br /><br />Its a little overpriced IMO but very good quality.
+
+MANUAL ASSESSMENT: [ ] Normal  [ ] Suspicious  [ ] Definitely Anomalous
+NOTES: ___________________________________________________________
+____________________________________________________________________
+
+
+================================================================================
+REVIEW #10
+================================================================================
+
+Review ID: 2199
+Product ASIN: B08QZBZG89
+User ID: AE3KLVXGZPANXE5XLXYKHTVAZ3FQ
+Timestamp: 2021-05-19 19:52:37.451000
+
+Rating: 4.0 / 5.0
+Product Average Rating: 4.20
+Rating Deviation: -0.20
+Extreme Rating (1 or 5): No
+
+Verified Purchase: No
+Helpful Votes: 0
+
+Word Count: 57
+Character Count: 357
+Uppercase Ratio: 0.027
+Punctuation Ratio: 0.017
+
+User Total Reviews: 22
+User Average Rating: 4.18
+User Verified Ratio: 0.05
+
+Product Total Reviews: 5
+Product Average Rating: 4.40
+Product Verified Ratio: 0.80
+
+Isolation Forest Score: -0.5380
+HBOS Score: 47.5496
+One-Class SVM Score: 5.6601
+
+TITLE:
+It’s okay, runs dark
+
+TEXT:
+I have very light eyebrows (thanks genetics!) so I always darken my eye browns slightly with a little brown eye shadow so I thought I’d try this. It is waterproof but does easily rub off skin with some water if you don’t let it sit for awhile. Once it’s dried, it stays on pretty well. I ordered brown since I have light brown hair but this is a very dark brown so it gave a rather dramatic and sinister look lol I don’t think I’ll be using this. The tips of the eyebrow brush is rather bendable so you can go from 3 small, thin lines to 1 thick line VERY quickly.
+
+MANUAL ASSESSMENT: [ ] Normal  [ ] Suspicious  [ ] Definitely Anomalous
+NOTES: ___________________________________________________________
+____________________________________________________________________
+
+
+================================================================================
+REVIEW #11
+================================================================================
+
+Review ID: 395830
+Product ASIN: B0B5XFVSXY
+User ID: AGAHOB2F6HTESTTKDVZNQRS3KEZA
+Timestamp: 2022-09-08 21:36:21.318000
+
+Rating: 5.0 / 5.0
+Product Average Rating: 4.10
+Rating Deviation: 0.90
+Extreme Rating (1 or 5): Yes
+
+Verified Purchase: No
+Helpful Votes: 0
+
+Word Count: 20
+Character Count: 131
+Uppercase Ratio: 0.013
+Punctuation Ratio: 0.000
+
+User Total Reviews: 6
+User Average Rating: 4.00
+User Verified Ratio: 0.17
+
+Product Total Reviews: 319
+Product Average Rating: 4.35
+Product Verified Ratio: 0.60
+
+Isolation Forest Score: -0.5641
+HBOS Score: 51.2830
+One-Class SVM Score: 0.4017
+
+TITLE:
+Nice and sticky
+
+TEXT:
+The shape on these is just perfect with a slight emphasis on the outer portion of the eyes.  Enough that they could be disposable after one use, but with some care, these can be used multiple times<br /><br />Plus, they are portable
+
+MANUAL ASSESSMENT: [ ] Normal  [ ] Suspicious  [ ] Definitely Anomalous
+NOTES: ___________________________________________________________
+____________________________________________________________________
+
+
+================================================================================
+REVIEW #12
+================================================================================
+
+Review ID: 372659
+Product ASIN: B07SJ98G6Z
+User ID: AHRUV3HZFPZEPRWEMSYMVBAJXFFQ
+Timestamp: 2020-03-18 23:13:33.993000
+
+Rating: 3.0 / 5.0
+Product Average Rating: 3.40
+Rating Deviation: -0.40
+Extreme Rating (1 or 5): No
+
+Verified Purchase: No
+Helpful Votes: 0
+
+Word Count: 462
+Character Count: 3683
+Uppercase Ratio: 0.014
+Punctuation Ratio: 0.002
+
+User Total Reviews: 7
+User Average Rating: 3.86
+User Verified Ratio: 0.00
+
+Product Total Reviews: 4
+Product Average Rating: 2.50
+Product Verified Ratio: 0.00
+
+Isolation Forest Score: -0.6611
+HBOS Score: 54.1615
+One-Class SVM Score: 0.0000
+
+TITLE:
+Step 1: switch the lids; Lots of ingredients and plant stuff in the shampoo
+
+TEXT:
+A lot of the early reviews for this are going to be negative because they shipped the way-too-thick conditioner with a pump-top that doesn't work with it. They should have made it less thick, or shipped it in a wide-mouth jar you could scoop it out of like face cream, but since they didn't, the easiest thing is to switch the lids. The pump-top works fine on the shampoo. The press-open top on the conditioner is still a bother, but turning it upside down and rapping it on something to drive the conditioner to the opening does work. Don't break it.<br /><br />Supposing they'll fix this, how's the shampoo and conditioner?<br /><br />Well, speaking of face cream, the first thing I noticed was the unusual fragrance. Unusual for shampoo and conditioner, I mean. It reminds me of some face and other skin creams, sweet and vaguely flowery. It's light and pleasant enough, though some men may want something more traditional for them. And possibly those with extra-sensitive noses may be able to detect the garlic in the shampoo. (Yes, garlic. There are actually garlic shampoos, with a lot more garlic than here, some of which claim not to smell like garlic.) No garlic in the conditioner.<br /><br />The shampoo is thick and lathers well and cleans well.<br /><br />The ultra-thick conditioner, once you manage to get it on your hair, is fine, leaves my hair soft and combable.<br /><br />The ingredients (given below) look fairly conventional for the most part, a mix of synthetic and natural. For the shampoo, the collagen is the 17th ingredient by weight, so under 6% (probably far less), and the keratin is 28th, under 4% (probably far less). For the conditioner, the keratin is the 12th ingredient, meaning it could be as much as 8% (though again probably far less). For all I know that's plenty for what they're supposed to do.<br /><br />There's a lot of plant stuff in the shampoo, some only given in Latin, so here's the translation of the rest. Besides the acai, Matricaria (German chamomile), echinacea, garlic, lemon, sage, and spirulina, the shampoo has:<br /><br />Argania spinosa = argan<br />Symphytum officinale = comfrey<br />Trigonella foenum-graecum = fenugreek<br />Quercus alba = white oak<br />Viola tricolor = viola, or Johnny jumpup<br /><br />The conditioner also has some argan and acai, and adds:<br /><br />Fucus vesiculosus = bladderwrack (a seaweed)<br /><br />Some people prefer not to have the amodimethicone, here in both the shampoo and conditioner, a silicone some say is hard to rinse out, though others praise it for its conditioning effects particularly with bleached hair and for its limited buildup.<br /><br />Similarly, there's dimethicone in the conditioner, which some find to build up over time, while others don't seem to notice any trouble with that and enjoy its conditioning and emollient qualities.<br /><br />The silicone quaternium-16 is supposed to be a good silicone for rinsing out.<br /><br />For the conditioner, keep in mind that cetearyl alcohol, cetyl alcohol, and stearyl alcohol are fatty substances, not at all like the alcohol used for drinking or rubbing. They won't dry out your hair, just the opposite.<br /><br />Shampoo: Water, disodium laureth sulfosuccinate, glycerin, acrylates copolymer, cocamidopropyl hydroxysultaine, sodium cocoyl isethionate, fragrance, cocamidopropyl betaine, sodium cocoamphoacetate, guar hydroxypropyltrimonium chloride, panthenol, glycol distearate, laureth-4, lauryl glucoside, sodium lauryl glucose carboxylate, sodium cocoyl glutamate, hydrolyzed collagen, amodimethicone, trideceth-12, cetrimonium chloride, silicone quaternium-16, undeceth-11, butyloctanol, undeceth-5, Argania spinosa kernel oil, Euterpe oleracea (Acai) fruit extract, polyquaternium-70, hydrolyzed keratin, propylene glycol, Chamomilla recutita (Matricaria) flower extract, Symphytum officinale leaf extract, Echinacea purpurea extract, Trigonella foenum-graecum fruit extract, Allium sativum (garlic) bulb extract, citrus limon (lemon) fruit extract, propolis extract, Salvia officinalis (sage) leaf extract, Spirulina maxima extract, Quercus alba bark extract, Viola tricolor extract, citric acid, phenoxyethanol, ethylhexylglycerin, tetrasodium EDTA, benzyl salicylate, coumarin, hexyl cinnamal, hydroxyisohexyl 3-cyclohexene carboxaldehyde, linalool, butylphenyl methylpropional, alpha-isomethyl ionone.<br /><br />Conditioner: Water, cetearyl alcohol, cetyl alcohol, stearyl alcohol, glycerin, polyquaternium-11, panthenol, amodimethicone, centrimonium bromide, butylene glycol, Fucus vesiculosus extract, hydrolyzed keratin, dimethicone, tocopheryl acetate, Argania spinosa kernel oil, Euterpe oleracea (Acai) fruit extract, polyquaternium-70, disodium EDTA, fragrance, phenoxyethanol, ethylhexylglycerin, benzyl salicylate, coumarin, hexyl cinnamal, hydroxyisohexyl 3-cyclohexene carboxaldehyde, linalool, butylphenyl methylpropional, alpha-isomethyl ionone.<br /><br />Each bottle came wrapped in plastic. The shampoo had strapping tape over the top. They were put together in a paper box also wrapped in plastic. No way they'd leak out in transit.
+
+MANUAL ASSESSMENT: [ ] Normal  [ ] Suspicious  [ ] Definitely Anomalous
+NOTES: ___________________________________________________________
+____________________________________________________________________
+
+
+================================================================================
+REVIEW #13
+================================================================================
+
+Review ID: 124560
+Product ASIN: B09D3PW6C1
+User ID: AE3UKETTR77J4LM2ZE4AEUC4L6KA
+Timestamp: 2021-12-14 00:34:18.441000
+
+Rating: 1.0 / 5.0
+Product Average Rating: 3.10
+Rating Deviation: -2.10
+Extreme Rating (1 or 5): Yes
+
+Verified Purchase: No
+Helpful Votes: 0
+
+Word Count: 25
+Character Count: 178
+Uppercase Ratio: 0.017
+Punctuation Ratio: 0.000
+
+User Total Reviews: 14
+User Average Rating: 4.00
+User Verified Ratio: 0.00
+
+Product Total Reviews: 1
+Product Average Rating: 1.00
+Product Verified Ratio: 0.00
+
+Isolation Forest Score: -0.5529
+HBOS Score: 46.9587
+One-Class SVM Score: 3.9556
+
+TITLE:
+Left too many behind
+
+TEXT:
+I was supposed to receive watermelon but received orange which was very upsetting. Then to my surprise these strips do not remove the blackheads like they claim to. It left behind so many that it was annoying. It was easy to use but however they don’t work very well. Do not recommend.
+
+MANUAL ASSESSMENT: [ ] Normal  [ ] Suspicious  [ ] Definitely Anomalous
+NOTES: ___________________________________________________________
+____________________________________________________________________
+
+
+================================================================================
+REVIEW #14
+================================================================================
+
+Review ID: 491682
+Product ASIN: B00L62HMQG
+User ID: AHRHG74DWLTWSRACN5PPUWOVW4VA
+Timestamp: 2015-06-28 03:31:14
+
+Rating: 3.0 / 5.0
+Product Average Rating: 4.00
+Rating Deviation: -1.00
+Extreme Rating (1 or 5): No
+
+Verified Purchase: No
+Helpful Votes: 0
+
+Word Count: 2
+Character Count: 11
+Uppercase Ratio: 0.029
+Punctuation Ratio: 0.667
+
+User Total Reviews: 1
+User Average Rating: 3.00
+User Verified Ratio: 0.00
+
+Product Total Reviews: 144
+Product Average Rating: 3.59
+Product Verified Ratio: 0.98
+
+Isolation Forest Score: -0.5558
+HBOS Score: 46.7248
+One-Class SVM Score: 5.1691
+
+TITLE:
+gauge?
+
+TEXT:
+What guage are these 18?... 20?...
+
+MANUAL ASSESSMENT: [ ] Normal  [ ] Suspicious  [ ] Definitely Anomalous
+NOTES: ___________________________________________________________
+____________________________________________________________________
+
+
+================================================================================
+REVIEW #15
+================================================================================
+
+Review ID: 75368
+Product ASIN: B08G837P9K
+User ID: AGCE5KX3LQVANJCJDS5N34P3ECLA
+Timestamp: 2021-01-23 23:25:21.340000
+
+Rating: 5.0 / 5.0
+Product Average Rating: 4.10
+Rating Deviation: 0.90
+Extreme Rating (1 or 5): Yes
+
+Verified Purchase: No
+Helpful Votes: 0
+
+Word Count: 65
+Character Count: 416
+Uppercase Ratio: 0.000
+Punctuation Ratio: 0.000
+
+User Total Reviews: 6
+User Average Rating: 4.00
+User Verified Ratio: 0.17
+
+Product Total Reviews: 2
+Product Average Rating: 4.00
+Product Verified Ratio: 0.00
+
+Isolation Forest Score: -0.5350
+HBOS Score: 43.3652
+One-Class SVM Score: 5.4953
+
+TITLE:
+i think it works
+
+TEXT:
+this is the 3rd system i've tried in around 5 months - and i finally feel like something is working.  my hair is truly starting to feel a bit thicker, and some of the thinner spots appear to be a little less thin.  i wish i had some super profound before and after photos - i do not, a lot of it is in how my hair feels, and to be honest the results are slow coming - i might have a very drastic result in 6 months, and i would definitely update then, but for now i feel gradual changes and i am thrilled about it.  age and stress have thinned my hair a ton - i hate it, so any iota of added thickness is going to be thrilling for me.  now ... i just need to find a way for all of the new hairs to stop growing in gray.
+
+MANUAL ASSESSMENT: [ ] Normal  [ ] Suspicious  [ ] Definitely Anomalous
+NOTES: ___________________________________________________________
+____________________________________________________________________
+
+
+================================================================================
+REVIEW #16
+================================================================================
+
+Review ID: 230356
+Product ASIN: B08WR94H41
+User ID: AFZIHXLLRIZYAZDRCGC3Z4DYUMQQ
+Timestamp: 2021-05-10 19:27:23.889000
+
+Rating: 5.0 / 5.0
+Product Average Rating: 3.20
+Rating Deviation: 1.80
+Extreme Rating (1 or 5): Yes
+
+Verified Purchase: No
+Helpful Votes: 1
+
+Word Count: 34
+Character Count: 218
+Uppercase Ratio: 0.015
+Punctuation Ratio: 0.000
+
+User Total Reviews: 35
+User Average Rating: 3.91
+User Verified Ratio: 0.00
+
+Product Total Reviews: 49
+Product Average Rating: 2.65
+Product Verified Ratio: 0.90
+
+Isolation Forest Score: -0.5656
+HBOS Score: 47.3629
+One-Class SVM Score: 1.6443
+
+TITLE:
+Nice
+
+TEXT:
+This is a nice wig. It doesn’t have any combs in the back but it looks nice straight out the package. I recommend putting some dry shampoo to full down the shine and concealer at the top. It’s definitely something that can be worn out the house. The back wasn’t  too short either but that will also depend on how you comb your hair under. I have thin hair with my hair in a ponytail underneath
+
+MANUAL ASSESSMENT: [ ] Normal  [ ] Suspicious  [ ] Definitely Anomalous
+NOTES: ___________________________________________________________
+____________________________________________________________________
+
+
+================================================================================
+REVIEW #17
+================================================================================
+
+Review ID: 3632
+Product ASIN: B083B67373
+User ID: AES3YWD3ONJOUDRWFIV2ZO44QDAQ
+Timestamp: 2021-03-02 09:57:16.865000
+
+Rating: 4.0 / 5.0
+Product Average Rating: 3.60
+Rating Deviation: 0.40
+Extreme Rating (1 or 5): No
+
+Verified Purchase: No
+Helpful Votes: 0
+
+Word Count: 155
+Character Count: 1001
+Uppercase Ratio: 0.020
+Punctuation Ratio: 0.000
+
+User Total Reviews: 33
+User Average Rating: 3.91
+User Verified Ratio: 0.00
+
+Product Total Reviews: 10
+Product Average Rating: 4.10
+Product Verified Ratio: 0.00
+
+Isolation Forest Score: -0.6292
+HBOS Score: 46.9465
+One-Class SVM Score: 1.0834
+
+TITLE:
+Very moisturizing, but leaves too much oil behind. 3.5 stars ✨
+
+TEXT:
+The name of these masks really throws you off. It makes you think they are supposed to be used with an LED light, but they are not. Upon opening one of the mask packages, I wasn't expecting a gooey, in between a cream and lotion, to start leaking out. It's not like a Serum at all.<br />The mask itself is quite thin, but it's not at all easy to tear. I read that one reviewer commented that it rips easily. On the contrary, it's quite difficult to even tear it. I actually had to use scissors to cut it for a use that I will explain later. It is a good size, covering all areas quite well. The cutouts for the eyes are quite small, which I like because it really gets to the under-eye area without it getting into your eyes.<br />I left it on for 20 minutes, and then did as another reviewer did, and cut it up and put it on my neck & decollete for another 20 minutes, with the rest of the cream/lotion that was left in the package.<br />This mask is extremely moisturizing and did not sink into my skin completely afterwards. I had used Retin-A the night before, so my face was quite dry, and really needed moisture and nutrients. But, I think it is a little too oily for my skin. My skin was still so oily hours later that I had to blot it with a microfiber facial cloth. The next day my skin felt great, though, without any ill effects.<br />These are very moisturizing and emollient masks, and would be great for someone with extremely dry skin. For me, I think these will work well using them once a week or every other week, when my skin is at its driest. For five masks, I think the price point is just right. I would definitely recommend these. Especially for those with very dry skin.
+
+MANUAL ASSESSMENT: [ ] Normal  [ ] Suspicious  [ ] Definitely Anomalous
+NOTES: ___________________________________________________________
+____________________________________________________________________
+
+
+================================================================================
+REVIEW #18
+================================================================================
+
+Review ID: 101421
+Product ASIN: B085BB7B1M
+User ID: AHHMHVZC4UYPWW4Y234LIDK7ZADA
+Timestamp: 2012-12-26 06:48:54
+
+Rating: 5.0 / 5.0
+Product Average Rating: 4.70
+Rating Deviation: 0.30
+Extreme Rating (1 or 5): Yes
+
+Verified Purchase: No
+Helpful Votes: 0
+
+Word Count: 17
+Character Count: 110
+Uppercase Ratio: 0.021
+Punctuation Ratio: 0.056
+
+User Total Reviews: 4
+User Average Rating: 5.00
+User Verified Ratio: 0.75
+
+Product Total Reviews: 1962
+Product Average Rating: 4.62
+Product Verified Ratio: 0.96
+
+Isolation Forest Score: -0.5427
+HBOS Score: 43.2012
+One-Class SVM Score: 5.9880
+
+TITLE:
+Good family pack
+
+TEXT:
+We had a few of these already. 3 pack is a nice family pack size. Highly recommend these cloths! Having several different colors is nice as well.
+
+MANUAL ASSESSMENT: [ ] Normal  [ ] Suspicious  [ ] Definitely Anomalous
+NOTES: ___________________________________________________________
+____________________________________________________________________
+
+
+================================================================================
+REVIEW #19
+================================================================================
+
+Review ID: 509388
+Product ASIN: B08RYN11N9
+User ID: AFNCHMAKUAJOGVCKOA4XGLINHPDQ
+Timestamp: 2021-07-27 22:31:59.437000
+
+Rating: 5.0 / 5.0
+Product Average Rating: 4.80
+Rating Deviation: 0.20
+Extreme Rating (1 or 5): Yes
+
+Verified Purchase: No
+Helpful Votes: 0
+
+Word Count: 64
+Character Count: 443
+Uppercase Ratio: 0.016
+Punctuation Ratio: 0.015
+
+User Total Reviews: 38
+User Average Rating: 4.42
+User Verified Ratio: 0.00
+
+Product Total Reviews: 10
+Product Average Rating: 4.90
+Product Verified Ratio: 0.00
+
+Isolation Forest Score: -0.5542
+HBOS Score: 43.1852
+One-Class SVM Score: 4.6689
+
+TITLE:
+One of the best face rollers I have ever tried!!
+
+TEXT:
+This is now by far my favorite face roller. I have tried quite a few face rollers including materials like rose, and green quartz, stainless steel, regular single rollers and 2 rollers such as this one.<br />This design in particular is very easy to roll throughout the face. It is not as heavy as a similar design I have but with rose quartz spheres.<br />Feels cooler for a longer time since it is stainless steel and more importantly, it is not porous which avoids bacteria contamination on your face.<br />I use this roller almost every night while watching TV, which feels very soothing and relaxing.<br />Great gift for anyone!
+
+MANUAL ASSESSMENT: [ ] Normal  [ ] Suspicious  [ ] Definitely Anomalous
+NOTES: ___________________________________________________________
+____________________________________________________________________
+
+
+================================================================================
+REVIEW #20
+================================================================================
+
+Review ID: 437455
+Product ASIN: B09D8D6KWQ
+User ID: AEMP3A7IKW37CMWFXNKXWW6HGJHA_1
+Timestamp: 2021-12-19 01:34:43.972000
+
+Rating: 1.0 / 5.0
+Product Average Rating: 3.20
+Rating Deviation: -2.20
+Extreme Rating (1 or 5): Yes
+
+Verified Purchase: No
+Helpful Votes: 0
+
+Word Count: 439
+Character Count: 2887
+Uppercase Ratio: 0.047
+Punctuation Ratio: 0.055
+
+User Total Reviews: 115
+User Average Rating: 3.97
+User Verified Ratio: 0.02
+
+Product Total Reviews: 5
+Product Average Rating: 2.00
+Product Verified Ratio: 0.00
+
+Isolation Forest Score: -0.7177
+HBOS Score: 57.9121
+One-Class SVM Score: 0.0000
+
+TITLE:
+HORRIBLE! Tracks showing, HUUUUGE knots, hair fried!
+
+TEXT:
+I got the 22” Body Wave 13x4 T Part Lace.<br /><br />I do NOT recommend this wig! I recommend you quickly exit out from looking at this one and find ANYTHING else! The hair is so fried! It looks and feels unhealthy! The knots are HUUUUGE! They look sooo unnatural! The top is thin so you can see the tracks. Since you only have 1” parting space, which is already the middle part, there’s no room to change it so you can’t even try to cover the tracks. There are stains inside the cap, which look to be from the combs. There are tons of dark hairs mixed throughout the hair (even though the product page said it was virgin hair, unprocessed hair. But this definitely did not come from a natural blonde. It was bleached and it wasn’t done well so it’s totally fried!). I would honestly give it zero stars if I could, but I have to give at least 1 star. I go into more detail below if you’re interested…<br /><br />The product page states this is 150% density. I’m never good at determining if it’s accurate density. It honestly looks about 150% density. HOWEVER, there are areas on the top that are thin and you clearly see the tracks. Unfortunately, this is a T part Lace, so you don’t have room to change the part to cover the thin area. To me, that makes it unbearable.<br /><br />The knots on this thing are INSANE! I have no clue what on earth is going on with them but they are HUGE!! They look so unnatural and ridiculous!<br /><br />The product page says it is “premium hair material” and “we guarantee that T part Blonde 613 Lace Front Wig Human Hair Is 100% Real Blonde Human Hair Wigs, Soft & Healthy, No Tangle, No Shedding, Can Be Dyed, Bleached, Curled Etc.; You Can Buy without Worries.” Honestly, that is a joke! It is blonde, but it has been processed to be blonde. There are a ton of dark hairs mixed in throughout the hair. The hair has been badly bleached so it’s fried. I would never want to dye/bleach this again because I honestly don’t think the hair could take it since it’s in such bad condition! It definitely isn’t “healthy.” It’s not even really all that soft because you can feel how the hair is fried.<br /><br />The hair they show on the mannequins in the product photos on the product page are definitely NOTHING like the hair I received! That hair looks soft, healthy, plucked well, and without humongous knots and tracks showing on top.<br /><br />When you scroll down to the middle of the product page where they have more info. It says on the side in the grey box, “Wig Type: T Part Blonde Body Wave Virgin Human Hair Wigs.” It also says, “ Human Hair Quality: Unprocessed Brazilian Human Hair, Minimum Shedding.” “Just Like Your Own Human Hair, No Chemical.” Just full of LIES! This is NOT virgin hair. Virgin hair is also known as unprocessed hair (they mean the same thing). Unprocessed hair is human hair that has NEVER been chemically processed, this means over the life of the hair it’s never been dyed, coloured, or bleached. As a result, unprocessed hair is incredibly healthy. This has DEFINITELY been bleached so it is NOT Virgin/unprocessed. It is definitely NOT “no chemical.”<br /><br />It has 13x6x1 T part lace. That means the lace goes 13” in the front ear to ear, it goes 6 inches back, and the parting space is 1”. The product page said, “T- part 13x6x1 Lace, Giving You the Ability to Have a Longer or Multi-direction Partings and Makes You More Natural.” If you know what 13x6x1 lace means, then you already knew when you purchased it that the parting space is only 1” wide. But, some people might not know what that 1 means at the end. They might see it, but then see the product page says “ability to have a longer or multi-direction partings” and think they can change the part if they want. Like I said earlier, you can NOT change this part! It is only 1” wide and that whole 1” is plucked out making the middle part. There’s no room to change it. It’s unfortunate because, like I said earlier, you can see the tracks next to the part and if you could change the part you’d have the possibility of covering them up. But, you can’t with this.<br /><br />Oh, and there’s weird stains inside the cap. They look to be from the combs.<br /><br />I thought it was really funny in the middle of the product page they had a little thing that said, “Are you satisfied with the 613 blonde lace front wig human hair you bought before? If not satisfied, you can try ours. Maybe we will become the terminator of your choice of blonde lace front wig human hair, and we hope to have the opportunity to become your superstar.” Become the terminator of your choice? What the heck does that mean?! 😂 They definitely are NOT going to become my superstar, or anyone else’s if they keep putting out wigs like this! Especially given the fact they’re charging $102.39 for the 18” body wave (at the time of writing this review) is crazy! It is nowhere near worth that! I definitely do NOT recommend!
+
+MANUAL ASSESSMENT: [ ] Normal  [ ] Suspicious  [ ] Definitely Anomalous
+NOTES: ___________________________________________________________
+____________________________________________________________________
+
